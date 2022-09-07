@@ -6,7 +6,7 @@ Check out my portfolio or linkedin profile.
 - <img src=https://cdn-icons-png.flaticon.com/512/3536/3536505.png width=20 style="vertical-align:middle"> &nbsp;[Linkedin](https://www.linkedin.com/in/edoardogruppi)</br></br>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EdoardoGruppi&include_all_commits=True&show_icons=True&custom_title=Edoardo%20Gruppi's%20GitHub%20Stats&hide_title=True)" alt="Top Langs" style="width:450px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EdoardoGruppi&include_all_commits=True&show_icons=True&hide_title=True)" alt="Stats" style="width:450px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoGruppi&layout=compact&langs_count=8&hide_title=True" alt="Top Langs" style="width:390px;"/>
 </p>
 
