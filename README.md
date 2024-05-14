@@ -26,8 +26,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/edoardogruppi/"
     ><img
-      width="32px"
-      hspace="2px"
       height="32px"
       alt="LinkedIn"
       title="LinkedIn"
@@ -37,8 +35,9 @@
     <img
       alt="Total stars"
       hspace="5px"
+      height="32px"
       title="Total stars on GitHu height: 31px"
-      src="https://custom-icon-badges.demolab.com/github/stars/EdoardoGruppi?color=5labelColor=488207&logo=star"
+      src="https://custom-icon-badges.demolab.com/github/stars/EdoardoGruppi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
   /></a>
   <a href="https://www.buymeacoffee.com/edoardogruppi"
     ><img
@@ -51,14 +50,13 @@
     <img
       alt="followers"
       hspace="5px"
+      height="32px"
       title="Follow me on Githu height: 31px"
-      src="https://custom-icon-badges.demolab.com/github/followers/EdoardoGruppi?color=236ad3&labelColor=1logo=person-add&label=Followers&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/github/followers/EdoardoGruppi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"
   /></a>
   <a href="https://edoardogruppi.github.io/Portfolio/"
     ><img
-      width="32px"
-      hspace="2px"
-      height="32px"
+      height="34px"
       alt="Dev.to"
       title="Edoardo Gruppi Portfolio"
       src="https://cdn-icons-png.flaticon.com/128/3476/3476457.png"
