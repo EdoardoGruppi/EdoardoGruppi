@@ -45,7 +45,7 @@
       height="32px"
       alt="Ko-fi"
       title="Buy me a coffee"
-      src="https://github.com/EdoardoGruppi/EdoardoGruppi/assets/48513387/9423a5f4-5184-44d8-acc0-9872b2264731"
+      src="https://cdn.buymeacoffee.com/buttons/default-orange.png"
   /></a>
   <a href="https://github.com/EdoardoGruppi?tab=followers">
     <img
