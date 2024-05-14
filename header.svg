@@ -1,0 +1,49 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .background-header {
+          background-image: url('https://cdn.pixabay.com/animation/2023/03/19/02/34/02-34-11-741_512.gif');
+          height:220px;
+          text-align: center;
+          margin-bottom: 30px;
+        }
+        .header-title {
+          padding-bottom:20px;
+          padding-top:20px
+        }
+        .centered-items {
+          text-align: center;
+        }
+        .left-margin {
+          margin-left:5px;
+        }
+        .header-icon {
+          width: 32px;
+        }
+        .buymeacoffee {
+          background-color:white;
+          padding:3px;
+          border-radius:1%;
+          width: 120px;
+        }
+      </style>
+
+      <br/>
+      <div class="background-header">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=25&amp;pause=200&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;random=false&amp;lines=Hi+There!+;I+am+Edoardo+Gruppi" alt="Typing SVG" class="header-title"/></a>
+        <br/>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=200&amp;center=true&amp;vCenter=true&amp;random=true&amp;width=435&amp;lines=7%2B+years+of+coding+experience;2%2B+years+of+working+experience;Software+and+ML+engineer;Enthusiast+of+the+Seventh+Art&amp;size=22" alt="Typing SVG" /></a>
+        <p class="centered-items" style="margin-top:15px;">
+          <a href="https://www.linkedin.com/in/edoardogruppi/"><img class="header-icon" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
+          <a href="https://github.com/EdoardoGruppi">
+          <img alt="Total stars" title="Total stars on GitHub" class="left-margin" style="width:130px;height:31px;" src="https://custom-icon-badges.demolab.com/github/stars/EdoardoGruppi?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star"/></a>
+          <a href="https://www.buymeacoffee.com/edoardogruppi"><img class="buymeacoffee left-margin" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/EdoardoGruppi/Watch_Movies/assets/48513387/02c47069-695e-43df-9c51-e56b64547b58"/></a>
+          <a href="https://github.com/EdoardoGruppi?tab=followers">
+          <img alt="followers" title="Follow me on Github" class="left-margin" style="width:150px;height:31px;" src="https://custom-icon-badges.demolab.com/github/followers/EdoardoGruppi?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Followers&amp;logoColor=white"/></a>
+          <a href="https://edoardogruppi.github.io/Portfolio/"><img class="header-icon left-margin" alt="Dev.to" title="Edoardo Gruppi Portfolio" src="https://cdn-icons-png.flaticon.com/128/3476/3476457.png"/></a>
+        </p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

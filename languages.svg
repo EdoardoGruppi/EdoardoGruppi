@@ -1,0 +1,74 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .centered-items {
+          text-align: center;
+        }
+        .icon {
+          height: 42px;
+          width: 42px;
+          object-fit: contain;
+        }
+        footer {
+          font-size:11px;
+        }
+        table {
+          width: 100%; 
+          border-collapse: collapse;
+          max-width: 805px;
+          margin:auto;
+          margin-bottom: 20px;
+        }
+        th, td {
+          border: 1px solid #ccc; 
+          width: 33.33%;
+          padding: 10px;
+          vertical-align: top; 
+        }
+      </style>
+
+      <table>
+        <tr>
+          <th>Languages</th>
+          <th>Frameworks</th>
+          <th>Others</th>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://www.python.org" target="_blank"><img alt="Python" class="icon" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"  style="opacity:1;"/></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" class="icon"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" style="opacity:0.95;"/></a>
+            <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescirpt" class="icon" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" style="opacity:0.95;"/></a>
+            <a href="https://www.markdownguide.org/" target="_blank"><img alt="MarkDown" class="icon" src="https://user-images.githubusercontent.com/48513387/189547224-729131cd-7cfb-43aa-878b-1769429cc6df.png" style="opacity:0.95;scale:0.95;"/></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" class="icon" src="https://user-images.githubusercontent.com/48513387/189547265-746a30dd-53e9-46ba-ab5c-9bbf514d4cab.png" style="opacity:0.95;scale:0.95;"/></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" class="icon" src="https://user-images.githubusercontent.com/48513387/189547185-d736d668-ebc9-41d4-9b17-ebf95132e187.png" style="opacity:0.9;scale:0.95;"/></a>
+            <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img alt="SQL" class="icon" src="https://github.com/EdoardoGruppi/Watch_Movies/assets/48513387/012b424a-3869-4184-8d9c-6c220c3ae730" style="opacity:0.9;scale:0.90;"/></a>
+            <a href="https://www.latex-project.org/" target="_blank"><img alt="Latex" class="icon" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" style="opacity:0.8;"/></a>
+            <a href="https://helm.sh/" target="_blank"><img alt="Helm" class="icon" src="https://helm.sh/img/helm.svg" style="opacity:0.7;"/></a>
+            <a href="https://it.mathworks.com/products/matlab.html" target="_blank"><img alt="MatLab" class="icon" src="https://user-images.githubusercontent.com/48513387/189547323-a925274d-deea-42be-8711-bc821a34bfe7.png" style="opacity:0.4;scale:0.9;"/></a>
+            <a href="https://www.java.com" target="_blank"><img alt="Java" class="icon" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" style="opacity:0.3;"/></a>
+            <a href="https://devdocs.io/c/" target="_blank"><img alt="C" class="icon" src="https://user-images.githubusercontent.com/48513387/189547147-8b62c4d5-d857-47dd-a285-7d79df1b5e78.png" style="opacity:0.3;scale:0.95;"/></a>
+            <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img alt="CSharp" class="icon" src="https://user-images.githubusercontent.com/48513387/189547166-0c851752-3b56-4585-8a54-dfd48a9ee52c.png" style="opacity:0.2;scale:0.95;"/></a>
+          </td>
+          <td>     
+            <a href="https://reactjs.org/" target="_blank"> <img alt="React" class="icon" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" style="opacity:1;"/></a> 
+            <a href="https://fastify.dev/" target="_blank"> <img alt="Fastify" class="icon" src="https://github.com/EdoardoGruppi/Watch_Movies/assets/48513387/ce8d6ae6-cf76-4aa6-a96b-6ed423bec192" style="opacity:1;"/></a> 
+            <a href="https://www.prisma.io/" target="_blank"> <img alt="Prisma" class="icon" src="https://github.com/EdoardoGruppi/Watch_Movies/assets/48513387/2d7d2942-9615-46d1-b180-0dcd0757280c" style="opacity:1;scale:0.90;"/></a> 
+            <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" class="icon" style="opacity:0.4;"/></a>
+            <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" class="icon" style="opacity:0.2;"/></a>
+          </td>
+          <td>
+            <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" class="icon" style="opacity:1;"/></a>
+            <a href="https://nodejs.org" target="_blank"><img alt="Node.js" class="icon" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" style="opacity:1;"/></a>
+            <a href="https://www.mongodb.com/" target="_blank"><img alt="Docker" class="icon" src="https://github.com/EdoardoGruppi/Drug_Design_Models/assets/48513387/bf62dedd-207b-47a4-a26c-502cbdf8017f" style="opacity:0.98;"/></a>
+            <a href="https://grafana.com/" target="_blank"> <img alt="Grafana" class="icon" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" style="opacity:0.8;"/></a>
+            <a href="https://kubernetes.io/" target="_blank"> <img alt="K8s" class="icon" src="https://github.com/EdoardoGruppi/Watch_Movies/assets/48513387/bfa1bb65-93e1-407f-a276-4ad3ec7ea9cc" style="opacity:0.6;"/></a>
+            <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" class="icon" src="https://user-images.githubusercontent.com/48513387/189546246-2b6bc732-80d3-484a-86dd-1b205e3f77eb.png" style="opacity:0.6;"/></a>
+            <a href="https://developer.android.com" target="_blank"> <img alt="Android" class="icon" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg" style="opacity:0.4;"/></a>
+            <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" class="icon" style="opacity:0.2;"/> </a>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </foreignObject>
+</svg>
