@@ -36,7 +36,7 @@
       alt="Total stars"
       hspace="5px"
       height="32px"
-      title="Total stars on GitHu height: 31px"
+      title="Total stars on GitHub"
       src="https://custom-icon-badges.demolab.com/github/stars/EdoardoGruppi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
   /></a>
   <a href="https://www.buymeacoffee.com/edoardogruppi"
@@ -51,7 +51,7 @@
       alt="followers"
       hspace="5px"
       height="32px"
-      title="Follow me on Githu height: 31px"
+      title="Follow me on GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/EdoardoGruppi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"
   /></a>
   <a href="https://edoardogruppi.github.io/Portfolio/"
