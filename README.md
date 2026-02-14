@@ -319,3 +319,5 @@ Displayed here are charts showcasing my GitHub activity. These statistics exclus
     width="355px"
   />
 </p>
+
+<img src="https://raw.githubusercontent.com/EdoardoGruppi/EdoardoGruppi/output/snake.svg" alt="Snake animation" />
