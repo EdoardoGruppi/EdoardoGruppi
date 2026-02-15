@@ -17,7 +17,7 @@
     <br />
     <a href="https://git.io/typing-svg"
       ><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&center=true&vCenter=true&random=true&width=435&lines=7%2B+years+of+coding+experience;2%2B+years+of+working+experience;Software+and+ML+engineer;Enthusiast+of+the+Seventh+Art&size=22"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&center=true&vCenter=true&random=true&width=435&lines=7%2B+years+of+coding+experience;3%2B+years+of+working+experience;Software+and+Data+Engineer;Enthusiast+of+the+Seventh+Art&size=22"
         alt="Typing SVG"
     /></a>
   </div>
@@ -66,10 +66,10 @@
 
 # About me
 
-I'm a software and machine learning engineer with various years of experience and a deep enthusiasm for building cool things. In my free time, I enjoy delving into the world of the seventh art, and you'll often find me crafting new projects that combine my passion for coding with the magic of movies. Beyond that, I have a profound love for nature and animals, and I'm eagerly looking forward to developing new personal programming projects that reflect these interests in the future.<br>
-For more information about me, feel free to explore my LinkedIn page or portfolio website using the dedicated buttons above.
+I'm a software and data engineer with various years of experience and a deep enthusiasm for building cool things. In my free time, I enjoy delving into the world of the seventh art, and you'll often find me crafting new projects that combine my passion for coding with the magic of movies. Beyond that, I have a profound love for nature and animals, and I'm eagerly looking forward to developing new personal programming projects that reflect these interests in the future.<br>
+For more information about me, feel free to explore my LinkedIn page or portfolio website using the dedicated buttons above. 
 
-In the table below, there are logos representing different languages, tools, main libraries, and resources. The placement of each logo reflects my confidence level, with those positioned more towards the top indicating higher proficiency.
+In the table below, there are logos representing different languages, tools, libraries, and resources. The placement of each logo reflects my confidence level, with those positioned more towards the top indicating higher proficiency.
 
 <br>
 <table width="100%" border="1px solid #ccc">
@@ -302,7 +302,7 @@ In the table below, there are logos representing different languages, tools, mai
   </tr>
 </table>
 
-# GitHub Stats
+# Github Stats
 
 Displayed here are charts showcasing my GitHub activity. These statistics exclusively represent my contributions to personal public projects. It's important to note that work-related engagements are monitored using distinct accounts and external tools, not reflected in these metrics.
 
@@ -320,8 +320,10 @@ Displayed here are charts showcasing my GitHub activity. These statistics exclus
   />
 </p>
 
+# GitHub Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdoardoGruppi/EdoardoGruppi/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdoardoGruppi/EdoardoGruppi/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EdoardoGruppi/EdoardoGruppi/output/github-snake.svg">
-</picture>   
+</picture>  
