@@ -13,6 +13,8 @@ jobs:
       contents: write
 
     steps:
+      - uses: actions/checkout@v6
+      
       # Snake Animation
       - uses: Sutil/snk@master
         id: snake-gif
@@ -29,8 +31,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       # GitHub Stats
-      - uses: actions/checkout@v6
-
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
