@@ -320,7 +320,7 @@ Displayed here are charts showcasing my GitHub activity. These statistics exclus
   />
 </p>
 
-# GitHub Contributions
+Watch my GitHub contributions come to life as a snake 🐍 eating its way through my activity graph.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdoardoGruppi/EdoardoGruppi/output/github-snake-dark.svg">
