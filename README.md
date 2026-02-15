@@ -321,7 +321,7 @@ Displayed here are charts showcasing my GitHub activity. These statistics exclus
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdoardoGruppi/EdoardoGruppi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdoardoGruppi/EdoardoGruppi/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EdoardoGruppi/EdoardoGruppi/output/github-snake.svg">
+</picture>   
