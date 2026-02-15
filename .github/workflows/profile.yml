@@ -45,7 +45,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=EdoardoGruppi&theme=dark&layout=pie&langs_count=6&hide_title=True
+          options: username=EdoardoGruppi&theme=dark&layout=pie&langs_count=6&hide_title=True&hide=jupyter%20notebook
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
 
