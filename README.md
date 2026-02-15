@@ -319,8 +319,10 @@ Displayed here are charts showcasing my GitHub activity. These statistics exclus
     width="280px"
   />
 </p>
+<br>
 
-Watch my GitHub contributions come to life as a snake 🐍 eating its way through my activity graph.
+Watch my GitHub contributions come to life as a snake 🐍 eating its way through my activity graph.<br>
+The more I code, the bigger it gets 😎
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdoardoGruppi/EdoardoGruppi/output/github-snake-dark.svg">
