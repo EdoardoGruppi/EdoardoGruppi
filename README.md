@@ -309,15 +309,19 @@ Displayed here are charts showcasing my GitHub activity. These statistics exclus
 <br>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=EdoardoGruppi&include_all_commits=True&show_icons=True&theme=dark&hide_title=True#)"
+    src="./profile/stats.svg"
     alt="Stats"
-    width="450px"
+    width="520px"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoGruppi&theme=dark&layout=compact&langs_count=6&hide_title=True#"
+    src="./profile/top-langs.svg"
     alt="Top Langs"
-    width="355px"
+    width="280px"
   />
 </p>
 
-<img src="https://raw.githubusercontent.com/EdoardoGruppi/EdoardoGruppi/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
