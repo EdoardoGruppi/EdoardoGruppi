@@ -111,8 +111,8 @@
       <g class="stagger" style="animation-delay: 100ms">
         <path
           data-testid="lang-pie"
-          size="89.43225110741795"
-          d="M 150 100 L 240 100 A 90 90 0 1 1 220.8784961118866 44.53614880918131 Z"
+          size="89.44853074617653"
+          d="M 150 100 L 240 100 A 90 90 0 1 1 220.9351918794316 44.608677998911936 Z"
           fill="#3572A5"
         />
       </g>
@@ -120,8 +120,8 @@
       <g class="stagger" style="animation-delay: 200ms">
         <path
           data-testid="lang-pie"
-          size="5.379069516404604"
-          d="M 150 100 L 220.8784961118866 44.53614880918131 A 90 90 0 0 1 235.25937160981647 71.17571245114256 Z"
+          size="5.370783048825325"
+          d="M 150 100 L 220.9351918794316 44.608677998911936 A 90 90 0 0 1 235.27383715632976 71.21853553698567 Z"
           fill="#f1e05a"
         />
       </g>
@@ -129,8 +129,8 @@
       <g class="stagger" style="animation-delay: 300ms">
         <path
           data-testid="lang-pie"
-          size="2.529128081976816"
-          d="M 150 100 L 235.25937160981647 71.17571245114256 A 90 90 0 0 1 238.74634465567692 85.03048730733678 Z"
+          size="2.525231954999608"
+          d="M 150 100 L 235.27383715632976 71.21853553698567 A 90 90 0 0 1 238.75019524013075 85.05333332014546 Z"
           fill="#663399"
         />
       </g>
@@ -138,8 +138,8 @@
       <g class="stagger" style="animation-delay: 400ms">
         <path
           data-testid="lang-pie"
-          size="1.5019481620455688"
-          d="M 150 100 L 238.74634465567692 85.03048730733678 A 90 90 0 0 1 239.7620420786128 93.45967876344434 Z"
+          size="1.4996344078335082"
+          d="M 150 100 L 238.75019524013075 85.05333332014546 A 90 90 0 0 1 239.76277434123244 93.46973640922647 Z"
           fill="#e34c26"
         />
       </g>
@@ -147,8 +147,8 @@
       <g class="stagger" style="animation-delay: 500ms">
         <path
           data-testid="lang-pie"
-          size="0.9508684659705027"
-          d="M 150 100 L 239.7620420786128 93.45967876344434 A 90 90 0 0 1 239.99240736087842 98.83097587975308 Z"
+          size="0.949403651156083"
+          d="M 150 100 L 239.76277434123244 93.46973640922647 A 90 90 0 0 1 239.99243073548445 98.83277666274499 Z"
           fill="#3178c6"
         />
       </g>
@@ -156,8 +156,8 @@
       <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-pie"
-          size="0.2067346661845633"
-          d="M 150 100 L 239.99240736087842 98.83097587975308 A 90 90 0 0 1 240 100.00000000000006 Z"
+          size="0.20641619100895403"
+          d="M 150 100 L 239.99243073548445 98.83277666274499 A 90 90 0 0 1 240 99.99999999999997 Z"
           fill="#dea584"
         />
       </g>
@@ -170,14 +170,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 89.43%
+        Python 89.45%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 5.38%
+        JavaScript 5.37%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
