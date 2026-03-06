@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Edoardo Gruppi's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 43, Total Commits  : 1000, Total PRs: 4, Total PRs Merged: 3, Merged PRs Percentage: 75.00, Total PRs Reviewed: 0, Total Issues: 31, Total Discussions Started: 0, Total Discussions Answered: 0, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 43, Total Commits  : 1000, Total PRs: 4, Total PRs Merged: 3, Merged PRs Percentage: 75.00, Total PRs Reviewed: 0, Total Issues: 32, Total Discussions Started: 0, Total Discussions Answered: 0, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 167.55827936103233;
+        stroke-dashoffset: 167.31580814980111;
       }
     }
   
@@ -238,7 +238,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >31</text>
+      >32</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
